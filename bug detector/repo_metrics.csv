@@ -1,0 +1,6 @@
+file,loc,complexity,churn,buggy
+auth.py,120,4,5,1
+utils.py,80,2,3,0
+main.py,200,5,6,1
+db.py,100,3,2,0
+views.py,170,6,7,1
